@@ -44,15 +44,3 @@ The dataset is highly imbalanced, so model performance is evaluated using **prec
 - Better recall and F1-score for fraud detection.
 - Effectively handled imbalanced data.
 
----
-
-## Deliverables
-- Jupyter Notebook
-- Feature importance plot
-- Saved model (`fraud_detection_model.pkl`)
-- README.md
-
----
-
-## Author
-**Raji Parasa**
